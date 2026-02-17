@@ -1,0 +1,55 @@
+📁 Suggested Folder Structure
+online-payments-fraud-detection/
+│
+├── app.py
+├── model.pkl
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+└── README.md
+
+🚀 Steps to Run Flask Application
+✅ Step 1: Create Virtual Environment (Optional but Recommended)
+python -m venv venv
+venv\Scripts\activate
+
+✅ Step 2: Install Dependencies
+pip install -r requirements.txt
+
+Example requirements.txt:
+
+flask
+pandas
+numpy
+scikit-learn
+
+✅ Step 3: Train Model & Save
+
+Make sure your ML model is saved as:
+
+model.pkl
+
+
+✅ Step 4: Run Flask App
+python app.py
+
+
+🖥 Application Workflow
+
+Flask sends data to trained ML model
+
+Model predicts Fraud / Not Fraud
+
+Result displayed on web page
+
+✨ Features
+
+✔ Web-based prediction
+✔ Real-time fraud detection
+✔ ML model integration
+✔ Simple user interface
