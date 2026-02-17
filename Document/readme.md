@@ -56,7 +56,7 @@ The system classifies transactions as **Fraudulent** or **Legitimate** using sup
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/Poojitha2635/online-payments-fraud-detection.git
+git clone https://github.com/Poojitha2635/Online-Payments-Fraud-Detection-Using-Ml.git
 
 ✅ Sample Output
 
