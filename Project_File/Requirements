@@ -1,0 +1,7 @@
+flask – Web application framework
+numpy – Numerical computations
+pandas – Dataset handling
+scikit-learn – Machine Learning models
+matplotlib – Graph plotting
+seaborn – Advanced visualizations
+joblib / pickle-mixin – Saving & loading trained ML models
